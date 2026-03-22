@@ -69,7 +69,7 @@
 <br>
 
 ## 📚 Образование
-<img width="2400" height="3392" alt="sertificate" src="https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/sertificate.png" />
+<img width="1600" height="2261" alt="sertificate" src="https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/sertificate.png" />
 <img width="912" height="663" alt="diploma" src="https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/diploma.png" />
 
 <br>
