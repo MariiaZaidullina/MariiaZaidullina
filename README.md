@@ -63,7 +63,7 @@
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 ## ⚙️ Практика и стажировка
-[<img src="/internship_auto.png" width="300px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/internship.png)
+[<img src="/internship_auto.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/internship.png)
 
 
 <br>
