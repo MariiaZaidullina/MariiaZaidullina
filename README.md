@@ -63,14 +63,14 @@
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 ## ⚙️ Практика и стажировка
-<img width="2400" height="1700" alt="internship auto ae" src="https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/internship.png" />
+[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/internship.png)
 
 
 <br>
 
 ## 📚 Образование
-<img width="1600" height="2261" alt="sertificate" src="https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/sertificate.png" />
-<img width="912" height="663" alt="diploma" src="https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/diploma.png" />
+[<img src="/sertificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/sertificate.png)
+[<img src="/diploma.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MariiaZaidullina/MariiaZaidullina/refs/heads/main/diploma.png)
 
 <br>
 <br>
