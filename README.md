@@ -1,11 +1,7 @@
 ## Всем привет! 👋
 Меня зовут Маша, я QA инженер🦾
 
-## 📊 Статистика
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=MariiaZaidullina)
-
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=MariiaZaidullina)
 
 ## Тестирование API и интеграций
 <div>
